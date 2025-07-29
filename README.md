@@ -27,12 +27,6 @@ All functionality is implemented using **React 19.1.0** with modern development 
 
 ---
 
-## 🌐 Live Demo
-
-👉 [View Todo App](https://github.com/Sourabh-iiitd/Todo-App)
-
----
-
 ## 🧰 Tech Stack
 
 - **React 19.1.0 ⚛️**
